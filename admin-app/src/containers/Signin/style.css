@@ -1,0 +1,15 @@
+.ant-form-item-control-input {
+    max-width: 400px;
+}
+
+div.ant-form-item-control-input-content {
+    align-items: center;
+    margin: auto;
+}
+
+div.signin {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
